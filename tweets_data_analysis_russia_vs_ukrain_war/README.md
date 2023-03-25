@@ -1,6 +1,6 @@
 # Tweets Exploratory Data Analysis - Russia vs Ukraine War
 
-The data used here fro analysis is the Russia vs Ukraine Tweets Dataset from kaggle. You can see the dataset here.
+The data used here for the analysis is the Russia vs Ukraine Tweets Dataset from kaggle. You can see the dataset is uploaded here.
 
 The Different steps I have done for this analysis are as follows:
 

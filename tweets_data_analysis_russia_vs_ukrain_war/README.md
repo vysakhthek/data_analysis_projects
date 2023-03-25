@@ -9,7 +9,7 @@ The Different steps I have done for this analysis are as follows:
 3. Tweets Data sentiment analyis using Textblob
 4. Analysis using Different Plots and Word cloud using Matplolib and wordcloud
 
-The different plots I have plotted for analysis are shown below:
+### The different plots I have plotted for analysis are shown below:
 
 ![Screenshot from 2023-03-25 12-46-46](https://user-images.githubusercontent.com/116060493/227703920-038af3d6-4f8a-4996-99b1-6bb697ba721f.png)
 
@@ -23,7 +23,7 @@ The different plots I have plotted for analysis are shown below:
 ![Screenshot from 2023-03-25 12-49-18](https://user-images.githubusercontent.com/116060493/227703945-d3ed51da-7417-40e2-8ed5-a7c61aafc7f5.png)
 
 
-The different word clouds that I have plotted for sentiment analysis are shown below:
+### The different word clouds that I have plotted for sentiment analysis are shown below:
 
 
 ![Screenshot from 2023-03-25 12-49-41](https://user-images.githubusercontent.com/116060493/227704033-8a9415a4-e6dc-47c8-be03-faac9449a430.png)
